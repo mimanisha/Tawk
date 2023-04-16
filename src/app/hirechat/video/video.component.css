@@ -1,0 +1,18 @@
+.img{
+    height:100%;
+    width: 80%;  
+}
+
+.l:hover{
+    transform: translate(1.5);
+}
+
+.s{
+    padding: 2%;
+}
+
+@media(max-width:400px){
+    .s{
+        width:100%;
+    }
+}

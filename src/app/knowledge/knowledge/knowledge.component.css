@@ -1,0 +1,10 @@
+.img{
+    height:100%;
+    width: 80%;  
+}
+
+@media (max-width:400px){
+    .img{
+        text-align: center;
+    }
+}

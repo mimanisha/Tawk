@@ -1,0 +1,26 @@
+.col-md-2{
+    text-align: center;
+}
+
+.l{
+    font-size: medium;
+    list-style: none;
+}
+
+.lit{
+    padding-top: 8px;
+}
+.lit:hover {
+    color: #03a84e;
+}
+
+.icon:hover{
+    color: #03a84e;
+}
+
+@media(max-width :400px){
+    .bl{
+     text-align: center;
+     
+     }
+  }

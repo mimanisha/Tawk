@@ -1,0 +1,9 @@
+.main{
+    background-color: #f8fafc;
+}
+
+@media(max-width : 400px){
+    .l{
+        width:100%;
+    }
+}

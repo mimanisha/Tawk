@@ -1,0 +1,67 @@
+.img{
+    height: 100%;
+    width: 100%;
+}
+
+.img:hover{
+    transform: scale(1.2);
+}
+
+.s{
+    height: 70%;
+    width: 100%;
+}
+.s:hover{
+    transform: scale(1.1);
+}
+.text{
+    text-align: center;
+    padding: 2%;
+}
+
+.text:hover{
+    color: #03a84e;
+}
+
+.i{
+    color: rgb(29, 155, 240);
+    float: right;
+}
+
+.cmt{
+    padding: 1%;
+
+    background-image: url("https://pbs.twimg.com/profile_images/1609174825053945858/RmcOF0q9_normal.jpg&quot;");
+}
+
+.unorder{
+    list-style: none;
+}
+.l{
+    color:white;
+ }
+ @media(max-width :400px){
+   .bl{
+    text-align: center;
+    }
+ }
+
+ @media(max-width:1600px){
+    .unorder{
+        padding-left: 25%;
+    }
+ }
+
+ @media(max-width:400px){
+    .unorder{
+        padding: 3%;
+    }
+}
+
+/* .card-body{
+    padding: 2%;
+} */
+ 
+.col-md-4{
+    padding: 2%;
+}

@@ -1,0 +1,16 @@
+
+@media(max-width:400px){
+    .s{
+        width:100%;
+    }
+}
+
+.i{
+    color: #03a84e;
+    font-size: 50px;
+}
+
+.j{
+    font-size: 75px;
+    color: rgb(201, 197, 197);
+}

@@ -1,0 +1,12 @@
+.main{
+    background-color: #f8fafc;
+}
+
+.img{
+    height: 50%;
+    width: 50%;
+}
+
+.img:hover{
+    transform: scale(1.2);
+}

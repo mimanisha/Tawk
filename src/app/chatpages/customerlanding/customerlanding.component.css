@@ -1,0 +1,13 @@
+.main{
+    background-color: #f8fafc;
+}
+.main2{
+    background-color: black;
+}
+
+@media(max-width:400px){
+.s{
+    width:100%;
+}
+}
+    

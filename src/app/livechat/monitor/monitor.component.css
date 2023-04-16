@@ -1,0 +1,24 @@
+.img{
+    height: 110%;
+    width: 100%;
+    
+}
+
+
+@media (max-width: 400px) {
+    .img {
+    text-align: center;
+    }
+
+    .sidebar {
+        width: 50px;
+    }
+
+}
+
+
+@media (max-width:450px){
+    .i{
+        display: contents;
+    }
+}

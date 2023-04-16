@@ -1,0 +1,40 @@
+.img{
+    /* height:0%; */
+    width: 120px;
+    text-align: center;
+    padding-left: 20%;
+}
+
+.ullist{
+    display: flex;
+    list-style: none;
+}
+
+.l{
+    padding: 2%;
+    text-align: center;
+}
+@media(max-width :400px){
+    .bl{
+     text-align: center;
+     }
+  }
+ 
+
+  @media(max-width :1600px){
+    .bl{
+     /* padding-left: 10%; */
+     /* width: 20%; */
+     height: 12%;
+     }
+  }
+
+  @media(max-width:400px){
+    .w{
+        display: none;
+    }
+  }
+ 
+  .btn:hover{
+    transform: scale(1.2);
+  }

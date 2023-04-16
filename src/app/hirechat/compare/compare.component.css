@@ -1,0 +1,36 @@
+
+.btn{
+    border: 1px solid white;
+}
+.btn:hover{
+    transform: scale(1.1);
+    background-color: white;
+    border: none;
+}
+
+.img{
+    height:100%;
+    width: 80%;  
+}
+
+.l:hover{
+    transform: translate(1.5);
+}
+
+
+@media(max-width:400px){
+    .s{
+        width:100%;
+    }
+}
+
+
+.btn-light{
+    background-color: white;
+}
+
+.btn-light:hover{
+    transform: scale(1.0);
+    border: none;
+    box-shadow: 1px 2px gray;
+}

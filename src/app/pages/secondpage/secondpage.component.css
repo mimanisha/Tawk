@@ -1,0 +1,23 @@
+.text{
+    text-align:center;
+    font-size: medium;
+    margin: 20px;
+}
+
+.div{
+    padding: 5% 10% 10% 1%;
+}
+.img{
+    height: 50%;
+    width: 100%;
+}
+
+.l{
+    transform-origin: center;
+    transform: rotateY(0deg)
+}
+
+.t{
+    text-align: center;
+    font-size: 15px;
+}

@@ -1,0 +1,56 @@
+.main{
+    background-image: url('https://tawk.link/521727297ca1334016000005/kb/banner/header/A1Cy7bR7bi.jpg');
+}
+
+@media(max-width:1600px){
+    .s{
+        margin-left: -5%;
+        padding: 1%;
+    }
+}
+
+@media(max-width:400px){
+    .s{
+        padding: 3%;
+       
+    }
+}
+
+.icon{
+    padding: 2%;  
+    color: #03a84e;
+    text-align: center;
+}
+
+.icon:hover{
+    background-color: white;
+}
+
+.ci{
+    padding: 6%;
+    color: #03a84e;
+    font-size: 50px;
+}
+
+.col-md-4{
+    padding: 2%;
+}
+.card{
+    border: none;
+    /* padding: 10%; */
+}
+
+.card:hover{
+    transform: scale(1.1);
+    border:1px solid #03a84e;
+}
+
+.card-body{
+    text-align: center;
+}
+
+.ion{
+    padding: 1%;
+    color:#545454;
+    font-size: 35px;
+}

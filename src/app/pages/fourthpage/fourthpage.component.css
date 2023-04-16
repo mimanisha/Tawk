@@ -1,0 +1,66 @@
+.text{
+    text-align: center;
+}
+
+.unorder{
+    list-style: none;
+}
+
+.bfaq{
+    width: 100%;
+    text-align: left; 
+    font-weight: 100;
+    background-color: white; 
+    border: none; 
+ }
+
+ .l{
+    color: #03a84e;
+ }
+
+
+ .unorder{
+    list-style: none;
+}
+.l{
+    color: #03a84e;
+ }
+ @media(max-width :400px){
+   .bl{
+    text-align: center;
+    }
+ }
+
+ @media(max-width:1600px){
+    .unorder{
+        padding-left: 25%;
+    }
+ }
+
+ @media(max-width:400px){
+    .unorder{
+        padding: 3%;
+    }
+}
+.img{
+    height:100%;
+    width:80%;  
+}
+
+.col-md-3{
+    padding: 1%;
+}
+
+@media(max-width:400px){
+    .col-md-3{
+        text-align: center;
+    }
+}
+
+.img:hover{
+    transform: scale(1.2);
+}
+
+.col-md-4{
+    padding: 3%;
+}

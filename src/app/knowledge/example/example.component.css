@@ -1,0 +1,20 @@
+.main{
+    background-color: #f8fafc;
+}
+
+@media(max-width : 400px){
+    .l{
+        width:100%;
+    }
+}
+
+.l{
+    color: #03a84e;
+    text-decoration: none;
+    text-align: center;
+}
+.l:hover{
+    color: white;
+    background-color:#03a84e;
+   
+}
